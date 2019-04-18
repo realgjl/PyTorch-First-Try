@@ -1,0 +1,11 @@
+name: PyTorch-First-Try environment
+channels:
+  - anaconda
+  - conda-forge
+  - pytorch
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pytorch
+  - torchvision
